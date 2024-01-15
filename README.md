@@ -1,2 +1,2 @@
 # TI
-LLC learning and general summary.
+Niko's blog
