@@ -1,2 +1,2 @@
 # TI
-Niko's blog
+Ti related chip technology and learning
